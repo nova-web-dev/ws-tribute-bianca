@@ -1,11 +1,50 @@
 h1 {
   font-family: French Script MT;
+  font-size: 75px
 }
 
-p {
+.p2 {
   font-size: 18px;
   font-family: Calibri;
 }
+
 .item {
-  max-height: 450px;
+  height:
+}
+
+.carousel-caption {
+  font-family: Calibri;
+  color: black;
+  font-size: 50px;
+  background
+}
+
+.opaque-bar {
+  background-color: black;
+}
+
+.p1 {
+  text-align: center;
+  font-size: 16px;
+}
+
+.blockquote {
+  margin-left: 32%;
+}
+
+.p3 {
+  font-family: French Script MT;
+  font-size: 45px;
+}
+
+.caption {
+  background-color: #ffccff;
+}
+
+.link {
+  font-size: 16px;
+}
+
+.item2 {
+  background-color: hsl(0, 0%, 3.5%);
 }
