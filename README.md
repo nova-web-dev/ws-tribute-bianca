@@ -8,11 +8,13 @@ The address of the site is https://nova-web-dev.github.io/ws-tribute-bianca/
 ###Usage
 To use this site, follow these steps.
 
-1. Clone the repository
+• Clone the repository
 
+    
     $ git clone https://github.com/nova-web-dev/ws-tribute-bianca.git
 
-2. Go into the site directory 
+• Go into the site directory 
+
 
     $ cd ws-tribute-bianca
 
@@ -26,4 +28,4 @@ Open Nautilus
 
     $ nautlius .
 
-4. Launch index.html in your preferred browser!
+• Launch index.html in your preferred browser!
